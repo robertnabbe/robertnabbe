@@ -1,6 +1,3 @@
 ```
-useEffect(() => {
-  ...
-// eslint-disable-next-line react-hooks/exhaustive-deps is life
-}, [])
+// eslint-disable-next-line
 ```
